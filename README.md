@@ -1,3 +1,5 @@
+Eduardo Lopes: [Twitter](https://twitter.com/EdoardoLopes/) | [CodePen](https://codepen.io/eduardolopes)
+
 ![00](others/rome_presentation_1.jpg)
 ![01](others/rome_presentation_0.jpg)
 ![02](others/rome_presentation_2.jpg)
